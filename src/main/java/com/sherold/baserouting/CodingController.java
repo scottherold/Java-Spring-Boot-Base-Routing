@@ -18,7 +18,7 @@ public class CodingController {
 	// This annotation will return a response to the route '/coding/python'
 	@RequestMapping("/python")
 	public String python() {
-		return "Python/Django was awesome!";
+		return "Python/Django was awesom!";
 	}
 	
 	// This annotation will return a response to the route '/coding/java'
