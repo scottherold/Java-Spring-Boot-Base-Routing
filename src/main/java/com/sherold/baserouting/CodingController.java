@@ -12,7 +12,7 @@ public class CodingController {
 	// This annotation will return a response to the route '/coding'
 	@RequestMapping("")
 	public String hello() {
-		return "Hello Coding Doj!";
+		return "Hello Coding Dojo!";
 	}
 	
 	// This annotation will return a response to the route '/coding/python'
